@@ -1,0 +1,57 @@
+body 
+{
+	background:url("assets/fundo.png");
+	font: 16px Arial, Helvetica , sans-serif;
+}
+
+
+#principal {
+
+	/* Esta definindo a largura do conteudo 
+	||
+	\/
+	*/
+
+	width: 900px;
+
+
+}
+
+#menu {
+
+	background: #c5c5b2;
+
+	/* Espacamento interno padding*/
+	padding: 30px;
+
+}
+
+a {
+ color: #4b566a;
+ text-decoration: none;
+ font-weight: bold;
+ padding: 18px;
+ text-align: center;
+}
+
+#conteudo 
+{
+	background: #FDFBED;
+	padding: 10px;
+}
+
+h1
+{
+color: #AAA491;
+font-size: 25px;
+}
+
+#footer 
+{
+ text-align: center;
+}
+
+img 
+{
+	border: solid  #D1CFB8  10px;
+}
